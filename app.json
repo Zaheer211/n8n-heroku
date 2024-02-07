@@ -18,7 +18,7 @@
     },
     "N8N_ENCRYPTION_KEY": {
       "description": "Set the n8n encryption key to a static value to avoid Heroku overriding it (causing authentication to fail).",
-      "value": "cfhfgh@43456dgffouiopigfdsgr33####dsfsfsf@@@dfgdfgh&&ghfdh"
+      "value": "cfhfgh@43456dgfwefouiopigfdsgr33####dsfsfsf@@@dfgdfgh&&ghfdh"
     },
     "WEBHOOK_URL": {
       "description": "Replace n8n-demo with your Heroku application name. This will ensure the correct webhook URLs are being shown in n8n.",
